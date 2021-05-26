@@ -1,0 +1,60 @@
+
+/* .container{
+    
+    display: flex;
+    background-color: black;
+    margin: 20px;
+
+
+    
+}
+.total{
+    background-color: black;
+    align-items: center;
+}
+.total > h1 {
+    color: blanchedalmond;
+    text-align: center;
+}
+
+.picture{
+    padding: 10px;
+    background-color:black;
+    width: 80vw;
+    height: 80vh;
+    display: grid;
+    grid-row: inherit;
+    
+    
+
+}
+.photo{
+grid: 3;
+color: blanchedalmond;
+width: 40vw;
+height: 65vh;
+background-color: blanchedalmond;
+border: brown;
+border-radius: 20px;
+overflow: scroll;
+
+}
+.photo > img{
+    background-color: blue;
+}
+.dropdown{
+    grid: 2;
+    background-color: blueviolet;
+    height: 0vh;
+    width: 40vw;
+    
+}
+.charts{
+    width: 80vw;
+    height: 74vh;
+    background-color: brown;
+    display: flex;
+    border: 2px solid brown;
+    border-radius: 20px;
+    
+} */

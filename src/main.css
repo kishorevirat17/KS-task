@@ -1,0 +1,30 @@
+#header{
+    text-align: center;
+    color: rgb(101, 187, 221);
+}
+
+.dropdown{
+    margin-top: 15px;
+    
+}
+.picture{
+    background-color: rgb(101, 187, 221);
+    width: 50vw;
+    height: 65vh;
+    margin-top: 45px;
+    border-radius: 15px;
+    margin-right: 35px;
+    overflow: scroll;
+    margin: 10px;
+}
+#image{
+    width: 120px;
+    height: 120px;
+    margin: 30px;
+    margin-left: 50px;
+    
+}
+#chartHead{
+    text-align: center;
+    color: red;
+}
